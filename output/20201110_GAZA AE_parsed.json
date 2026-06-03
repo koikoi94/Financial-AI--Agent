@@ -1,0 +1,17 @@
+{
+  "company": "QTA",
+  "date": "2504",
+  "time": "",
+  "items": [
+    {
+      "name": "MET",
+      "price": 7.99
+    }
+  ],
+  "total": 7.99,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "card",
+    "card": ""
+  }
+}

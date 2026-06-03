@@ -1,0 +1,21 @@
+{
+    "company": "Safonov Autolack",
+    "date": "11.05.2015",
+    "time": "20:15",
+    "items": [
+        {
+            "name": "MOTIP Hitzebest\u00e4ndiger bis 800\u00b0C",
+            "price": 11.99
+        },
+        {
+            "name": "Hitzefest Klarlack Spray 400 ml *04033",
+            "price": 11.99
+        }
+    ],
+    "total": 15.98,
+    "tax": 2.55,
+    "payment_method": {
+        "type": "paypal",
+        "card": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "company": "00R Museum GmbH",
+  "date": "Jun.05.2023",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "Tagesticket",
+      "price": 7.99
+    },
+    {
+      "name": "Hummer (n)",
+      "price": 2031.0
+    }
+  ],
+  "total": 2038.94,
+  "tax": 4.6,
+  "payment_method": {
+    "type": "american expkess",
+    "card": "#####4#4####10O8 OOOO"
+  }
+}

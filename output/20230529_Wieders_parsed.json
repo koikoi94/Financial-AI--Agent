@@ -1,0 +1,17 @@
+{
+  "company": "Oebeliegam Pergamonmuseum. Das Panorama",
+  "date": "29.05.2023",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "Museumsinse|Panorama",
+      "price": 9.5
+    }
+  ],
+  "total": 9.5,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "american express",
+    "card": "<hidden card number>"
+  }
+}

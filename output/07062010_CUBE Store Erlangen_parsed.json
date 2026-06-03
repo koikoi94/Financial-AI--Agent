@@ -1,0 +1,17 @@
+{
+  "company": "CubeStore",
+  "date": "07.07",
+  "time": "10:51:04",
+  "items": [
+    {
+      "name": "Items not provided",
+      "price": 0.0
+    }
+  ],
+  "total": 920.85,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "card",
+    "card": "#Ref#"
+  }
+}

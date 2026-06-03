@@ -1,0 +1,17 @@
+{
+  "company": "DEUTSCHES Spionage Museum",
+  "date": "28.05.2023",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "Ermalsigt",
+      "price": 11.0
+    }
+  ],
+  "total": 11.0,
+  "tax": 0.72,
+  "payment_method": {
+    "type": "amex",
+    "card": "#**1008"
+  }
+}

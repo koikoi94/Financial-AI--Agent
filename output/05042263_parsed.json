@@ -1,0 +1,21 @@
+{
+  "company": "r2-bike.com",
+  "date": "23.06.2021",
+  "time": "03:51",
+  "items": [
+    {
+      "name": "SAPIM Speiche Race Straightpull schwarz 268 mm",
+      "price": 0.0
+    },
+    {
+      "name": "SAPIM Speiche Laser Straightpull schwarz 267 mm",
+      "price": 0.0
+    }
+  ],
+  "total": 0.0,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "",
+    "card": ""
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "company": "Our Selection",
+  "date": "28/07/2023",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "FZ5624",
+      "price": 150.0
+    }
+  ],
+  "total": 150.0,
+  "tax": 19.8,
+  "payment_method": {
+    "type": "card",
+    "card": "Not provided in the given receipt"
+  }
+}

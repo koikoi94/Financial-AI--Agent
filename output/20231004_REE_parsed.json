@@ -1,0 +1,12 @@
+{
+  "company": "EIZITHPIO",
+  "date": "11.01.2023",
+  "time": "20:23",
+  "items": [],
+  "total": 10564.0,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "unknown",
+    "card": "RCrt098012197"
+  }
+}

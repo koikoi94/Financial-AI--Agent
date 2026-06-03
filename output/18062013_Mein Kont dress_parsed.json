@@ -1,0 +1,17 @@
+{
+  "company": "ion1.de",
+  "date": "18. Juni 2013",
+  "time": "20:13",
+  "items": [
+    {
+      "name": "CTEK MXS 10 Batterlo-Ladegarut",
+      "price": 114.76
+    }
+  ],
+  "total": 114.76,
+  "tax": 18.32,
+  "payment_method": {
+    "type": "",
+    "card": ""
+  }
+}

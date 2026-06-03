@@ -1,0 +1,17 @@
+{
+  "company": "Baccarat Hotel",
+  "date": "0241-08-62448529",
+  "time": "02:41",
+  "items": [
+    {
+      "name": "Festhälle",
+      "price": 84.6
+    }
+  ],
+  "total": 84.6,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "card",
+    "card": "Visa"
+  }
+}

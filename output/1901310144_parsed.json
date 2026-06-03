@@ -1,0 +1,29 @@
+{
+  "company": "Shirtinator AG",
+  "date": "04.02.2019",
+  "time": "20:19",
+  "items": [
+    {
+      "name": "Original T-Shirt",
+      "price": 5574.843
+    },
+    {
+      "name": "M#I: User, Direktdruck",
+      "price": 0.0
+    },
+    {
+      "name": "M#2: User, Direktdruck",
+      "price": 0.0
+    },
+    {
+      "name": "M#3: User, Direktdruck",
+      "price": 0.0
+    }
+  ],
+  "total": 5574.843,
+  "tax": 916.312,
+  "payment_method": {
+    "type": "vorkasse",
+    "card": ""
+  }
+}

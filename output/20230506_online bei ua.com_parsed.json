@@ -1,0 +1,21 @@
+{
+  "company": "UNDER ARMDUR",
+  "date": "06.07.2067",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "UA Sportstyle Ellte",
+      "price": 62.99
+    },
+    {
+      "name": "UA Run Anywhere SS-BL",
+      "price": 27.99
+    }
+  ],
+  "total": 90.98,
+  "tax": 19.0002,
+  "payment_method": {
+    "type": "amerian express",
+    "card": ""
+  }
+}

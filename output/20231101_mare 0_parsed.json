@@ -1,0 +1,21 @@
+{
+  "company": "Furthermore",
+  "date": "10.08.2079",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "Wasser Erw",
+      "price": 16.5
+    },
+    {
+      "name": "Hasser Erw",
+      "price": 16.5
+    }
+  ],
+  "total": 33.0,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "kartenzahlung",
+    "card": "girocard Nr_ ##########**##85og 0001"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Butlers GmbH & Co KG",
+  "date": "10.03.2085",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "Ix GRUBKARTE Doppelkarten",
+      "price": 2.49
+    },
+    {
+      "name": "QuadrART",
+      "price": 19.99
+    }
+  ],
+  "total": 22.48,
+  "tax": 3.59,
+  "payment_method": {
+    "type": "kartenzahlung",
+    "card": ""
+  }
+}

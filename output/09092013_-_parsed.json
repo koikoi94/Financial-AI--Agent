@@ -1,0 +1,17 @@
+{
+  "company": "Unknown",
+  "date": "31.05.2045",
+  "time": "20:13",
+  "items": [
+    {
+      "name": "Piece",
+      "price": 51.7657196
+    }
+  ],
+  "total": 51.7657196,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "unknown",
+    "card": "Unknown"
+  }
+}

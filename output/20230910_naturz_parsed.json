@@ -1,0 +1,17 @@
+{
+  "company": "Rothelheimbad",
+  "date": "10.09.2023",
+  "time": "01:49",
+  "items": [
+    {
+      "name": "Schwimbad 0000003894 Te",
+      "price": 8.6
+    }
+  ],
+  "total": 8.8,
+  "tax": 0.4,
+  "payment_method": {
+    "type": "kredit girocard",
+    "card": ""
+  }
+}

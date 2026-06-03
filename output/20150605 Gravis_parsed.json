@@ -1,0 +1,17 @@
+{
+  "company": "GRAViS Store Frankfurt-My Zeil",
+  "date": "05.06.2015",
+  "time": "01:58",
+  "items": [
+    {
+      "name": "Networx Mini DP on VGA/HDMI/DVI Adapter",
+      "price": 24.99
+    }
+  ],
+  "total": 28.98,
+  "tax": 3.99,
+  "payment_method": {
+    "type": "card",
+    "card": ""
+  }
+}

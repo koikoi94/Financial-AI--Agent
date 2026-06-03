@@ -1,0 +1,25 @@
+{
+  "company": "adidas Trading AG",
+  "date": "4",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "Adult adidas FTW",
+      "price": 71.27
+    },
+    {
+      "name": "Adult APP short",
+      "price": 6.006
+    },
+    {
+      "name": "Adult APp long",
+      "price": 12.006
+    }
+  ],
+  "total": 116.0,
+  "tax": 18.55,
+  "payment_method": {
+    "type": "sumup (j)",
+    "card": ""
+  }
+}

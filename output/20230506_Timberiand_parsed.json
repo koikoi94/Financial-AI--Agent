@@ -1,0 +1,21 @@
+{
+  "company": "Thimberland",
+  "date": "06/05/2023",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "Graydon Knit Ox JET BLACK",
+      "price": 7.99
+    },
+    {
+      "name": "Mid Lace Up Waterproof boot Saddle",
+      "price": 105.9
+    }
+  ],
+  "total": 18.39,
+  "tax": 197.0,
+  "payment_method": {
+    "type": "",
+    "card": ""
+  }
+}

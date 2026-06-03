@@ -1,0 +1,12 @@
+{
+  "company": "Kunde -Warel",
+  "date": "08",
+  "time": "13",
+  "items": [],
+  "total": 12.0,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "visa debit",
+    "card": "EUR"
+  }
+}

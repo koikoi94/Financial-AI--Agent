@@ -1,0 +1,21 @@
+{
+  "company": "Unnamed Company",
+  "date": "YYYY-MM-DD",
+  "time": "09:11",
+  "items": [
+    {
+      "name": "NSGAFOU 1.8/3 kV",
+      "price": 0.0
+    },
+    {
+      "name": "Steuerleitung HOSVVS-F",
+      "price": 0.0
+    }
+  ],
+  "total": 0.0,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "",
+    "card": ""
+  }
+}

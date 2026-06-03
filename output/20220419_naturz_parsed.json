@@ -1,0 +1,21 @@
+{
+  "company": "dm-drogerie markt",
+  "date": "19.04.2022",
+  "time": "20:22",
+  "items": [
+    {
+      "name": "Balea Nosestrips m_ Aktivkohle",
+      "price": 1.75
+    },
+    {
+      "name": "2x 1.95 Dove Men+Care Roll-On",
+      "price": 3.9
+    }
+  ],
+  "total": 5.65,
+  "tax": 0.9,
+  "payment_method": {
+    "type": "american express",
+    "card": ""
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Concopzion Doutschland GmbH",
+  "date": "06.05.2023",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "ADMI-870-DN-M",
+      "price": 199.5
+    },
+    {
+      "name": "PBSC 198-BEG-M-",
+      "price": 0.0
+    }
+  ],
+  "total": 199.5,
+  "tax": 31.85,
+  "payment_method": {
+    "type": "contactless",
+    "card": "American Express"
+  }
+}

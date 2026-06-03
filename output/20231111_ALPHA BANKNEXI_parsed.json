@@ -1,0 +1,21 @@
+{
+  "company": "Worldline Brand",
+  "date": "14/11/2023",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "ATOPA SALE",
+      "price": 67.22
+    },
+    {
+      "name": "'8 509 Maestco",
+      "price": 6.0
+    }
+  ],
+  "total": 73.22,
+  "tax": 6.0,
+  "payment_method": {
+    "type": "us-card",
+    "card": "Not Provided"
+  }
+}

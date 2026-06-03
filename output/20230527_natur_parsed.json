@@ -1,0 +1,17 @@
+{
+  "company": "CWL@ War Museum",
+  "date": "27.05.2023",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "Einzel",
+      "price": 14.4
+    }
+  ],
+  "total": 14.4,
+  "tax": 0.94,
+  "payment_method": {
+    "type": "electronic cash",
+    "card": ""
+  }
+}

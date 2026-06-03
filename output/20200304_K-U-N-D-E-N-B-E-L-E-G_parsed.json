@@ -1,0 +1,17 @@
+{
+  "company": "KundeMBe LEG",
+  "date": "01.02.2097",
+  "time": "20:20",
+  "items": [
+    {
+      "name": "",
+      "price": 25.0
+    }
+  ],
+  "total": 25.0,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "kartenzahlung",
+    "card": "girocard"
+  }
+}

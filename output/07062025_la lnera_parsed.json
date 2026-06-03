@@ -1,0 +1,37 @@
+{
+  "company": "Muleicycle",
+  "date": "07.08.2025",
+  "time": "07:08",
+  "items": [
+    {
+      "name": "RolandHodbscser",
+      "price": 9900.0
+    },
+    {
+      "name": "Kasierer",
+      "price": 8323833.0
+    },
+    {
+      "name": "Kalle Joppien",
+      "price": 7435.0
+    },
+    {
+      "name": "Cubceo CtTepeze",
+      "price": 739516.0
+    },
+    {
+      "name": "Aciplralnodsandenei",
+      "price": 11695.0
+    },
+    {
+      "name": "Acid-aicctlces RicipPUREI KioQ",
+      "price": 8321304.0
+    }
+  ],
+  "total": 10140713.0,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "",
+    "card": ""
+  }
+}

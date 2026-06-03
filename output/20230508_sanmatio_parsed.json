@@ -1,0 +1,17 @@
+{
+  "company": "lektorstore",
+  "date": "08-05-2023",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "HyperPixel 2.1 Round",
+      "price": 769894019832.0
+    }
+  ],
+  "total": 769894019832.0,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "",
+    "card": ""
+  }
+}

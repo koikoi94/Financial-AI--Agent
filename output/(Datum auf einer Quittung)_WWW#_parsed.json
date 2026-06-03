@@ -1,0 +1,33 @@
+{
+  "company": "Receipt Not Provided",
+  "date": "Not Provided",
+  "time": "Not Provided",
+  "items": [
+    {
+      "name": "Stuhl",
+      "price": 7.99
+    },
+    {
+      "name": "Möbelstuhl",
+      "price": 7.99
+    },
+    {
+      "name": "Tisch",
+      "price": 54.99
+    },
+    {
+      "name": "Tischtabelle",
+      "price": 54.99
+    },
+    {
+      "name": "Büro-Set",
+      "price": 189.9
+    }
+  ],
+  "total": 244.88,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "kasse",
+    "card": ""
+  }
+}

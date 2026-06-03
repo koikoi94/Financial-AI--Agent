@@ -1,0 +1,21 @@
+{
+  "company": "Rock Café (GERMANY) GmbH",
+  "date": "08.02.2083",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "Betrag",
+      "price": 34.95
+    },
+    {
+      "name": "Trinkgeld",
+      "price": 0.0
+    }
+  ],
+  "total": 34.95,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "contactless",
+    "card": "AMERICAN EXPRESS ####8######1008"
+  }
+}

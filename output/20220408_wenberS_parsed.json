@@ -1,0 +1,17 @@
+{
+  "company": "BLUMEN SCHÖN Inh.B. Schön",
+  "date": "08-04-2022",
+  "time": "20:22",
+  "items": [
+    {
+      "name": "Pflanzen",
+      "price": 16.0
+    }
+  ],
+  "total": 16.0,
+  "tax": 1.05,
+  "payment_method": {
+    "type": "ec-karte",
+    "card": ""
+  }
+}

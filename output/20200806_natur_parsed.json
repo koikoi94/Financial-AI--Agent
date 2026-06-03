@@ -1,0 +1,17 @@
+{
+  "company": "TSE Informatiken",
+  "date": "06. 08.2020",
+  "time": "20:20",
+  "items": [
+    {
+      "name": "Bachelorarbeit",
+      "price": 35.76
+    }
+  ],
+  "total": 35.76,
+  "tax": 4.93,
+  "payment_method": {
+    "type": "bar",
+    "card": ""
+  }
+}

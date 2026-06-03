@@ -1,0 +1,21 @@
+{
+  "company": "Mouser Electronics Inc",
+  "date": "Jun 27 2023",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "STMicro Power Management IC Development Tools STSPIN32G4 demonstrator",
+      "price": 304.0
+    },
+    {
+      "name": "STMicro Motor Motion/Ignition Controllers & Drivers 3-phase brushless motor",
+      "price": 223.0
+    }
+  ],
+  "total": 527.0,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "",
+    "card": ""
+  }
+}

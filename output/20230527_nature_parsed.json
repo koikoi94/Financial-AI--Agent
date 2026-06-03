@@ -1,0 +1,17 @@
+{
+  "company": "Hard Rock Cafe (Germany) GmbH",
+  "date": "27 May'23",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "Retail",
+      "price": 34.95
+    }
+  ],
+  "total": 29.37,
+  "tax": 5.58,
+  "payment_method": {
+    "type": "american express",
+    "card": ""
+  }
+}

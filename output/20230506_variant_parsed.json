@@ -1,0 +1,17 @@
+{
+  "company": "TUMBLERLAND OUTLET",
+  "date": "06/05/2023",
+  "time": "20:23",
+  "items": [
+    {
+      "name": "lahungsweise (7.99 x)",
+      "price": 7.99
+    }
+  ],
+  "total": 115.2,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "amcx",
+    "card": "Ijev. Nairi"
+  }
+}

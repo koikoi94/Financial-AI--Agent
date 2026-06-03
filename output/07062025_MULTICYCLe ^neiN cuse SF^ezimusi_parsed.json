@@ -1,0 +1,29 @@
+{
+  "company": "Multicycle",
+  "date": "07.06.2025",
+  "time": "20:25",
+  "items": [
+    {
+      "name": "Nulane ONE mineralgrey'n\"black",
+      "price": 799.0
+    },
+    {
+      "name": "ACID Fahradstander FM",
+      "price": 29.95
+    },
+    {
+      "name": "CUBE Flaschenhalter HPP Sidecage",
+      "price": 16.95
+    },
+    {
+      "name": "ACID Faltschloss RIGID PURE K1oo",
+      "price": 74.95
+    }
+  ],
+  "total": 920.85,
+  "tax": 147.036,
+  "payment_method": {
+    "type": "barzahlung/ ec zahlung",
+    "card": ""
+  }
+}

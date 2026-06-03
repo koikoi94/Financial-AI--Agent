@@ -1,0 +1,21 @@
+{
+  "company": "restposten-stema",
+  "date": "04.04.2013",
+  "time": "20:13",
+  "items": [
+    {
+      "name": "Satz Batterieklemmen +/-",
+      "price": 14.99
+    },
+    {
+      "name": "Versand- und Verpackungskosten",
+      "price": 3.9
+    }
+  ],
+  "total": 18.89,
+  "tax": 3.02,
+  "payment_method": {
+    "type": "paypal",
+    "card": ""
+  }
+}

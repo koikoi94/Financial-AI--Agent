@@ -1,0 +1,21 @@
+{
+  "company": "Prominat GmbH",
+  "date": "14.07.2021",
+  "time": "20:21",
+  "items": [
+    {
+      "name": "Polo shirt men, grey flecked M",
+      "price": 2975.0
+    },
+    {
+      "name": "Plastic cover Samsung S7",
+      "price": 2504.0
+    }
+  ],
+  "total": 5479.0,
+  "tax": 0.0,
+  "payment_method": {
+    "type": "",
+    "card": ""
+  }
+}
