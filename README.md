@@ -222,5 +222,5 @@ POST /parse-receipt
 
 **Chaiti Roy**
 
-M.Sc. Data Science
+M.Sc. Data Science,
 Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
