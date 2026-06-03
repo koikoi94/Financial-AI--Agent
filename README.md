@@ -1,3 +1,5 @@
+![CI](https://github.com/koikoi94/Financial-AI--Agent/actions/workflows/ci.yml/badge.svg)
+
 # AI Agent for Financial Document Processing
 
 ## Overview
