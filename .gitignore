@@ -1,10 +1,29 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-data/
-*.pdf
-*.jpg
-*.png
-
+# Virtual Environment
 parsing/
+venv/
 .env
+
+# IDE
+.vscode/
+.idea/
+
+# Generated Data
+data/
+output/
+output.json
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Model Cache
+models/
