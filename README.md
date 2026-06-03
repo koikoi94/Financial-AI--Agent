@@ -1,4 +1,4 @@
-![CI](https://github.com/koikoi94/Financial-AI--Agent/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/koikoi94/Financial-AI--Agent/actions/workflows/ci.yml/badge.svg)](https://github.com/koikoi94/Financial-AI--Agent/actions/workflows/ci.yml)
 
 # AI Agent for Financial Document Processing
 
